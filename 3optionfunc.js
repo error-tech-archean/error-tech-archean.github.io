@@ -1037,7 +1037,7 @@ function test() {
      {
        //alert("Enter name, colour and lotID");
      }
-     if(clr<len){
+     /*if(clr<len){
            	   $("#ty"+t).css("background-color", "skyblue");
                alert('please fill Color');
                return;
@@ -1046,7 +1046,7 @@ function test() {
            	$("#lot"+t).css("background-color", "skyblue");
              alert('please fill LOTID');
              return;
-           }
+           }*/
      }
    var pra=[name,adress,phone,date,con,vehicle,less,refer,load,aprvd,sales];
      for(var g=1;g<=t;g++){
